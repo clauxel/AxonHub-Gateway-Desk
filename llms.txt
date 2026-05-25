@@ -1,0 +1,11 @@
+# AxonHub Gateway Desk
+
+AxonHub Gateway Desk is a SaaS workspace for AI SDK gateway pricing.
+
+Website: https://axonhubgateway.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: AI SDK gateway pricing
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
